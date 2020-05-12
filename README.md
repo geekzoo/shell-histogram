@@ -19,6 +19,8 @@ data example
 2020/02/01 **********
 ```
 
+![alt text](Screenshot_20200512_132341.png)
+
 - [x] read data
 - [x] graph data
 - [ ] automated tests
