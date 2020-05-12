@@ -3,6 +3,8 @@
 1. Construct histrogram of time seriese data using Unix/Linux shell script.
 1. Graph increase and decreased values or likeness.
 
+Usage `./somat.sh mydata.txt`
+
 data example
 
 ```data
