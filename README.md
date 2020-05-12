@@ -2,7 +2,6 @@
 
 1. Construct histrogram of time seriese data using Unix/Linux shell script.
 1. Graph increase and decreased values or likeness.
-1. Data may be obtained here [Exercise data link](https://cdn.usu.utah.gov/~/markzum/exa.txt)
 
 data example
 
